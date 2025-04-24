@@ -295,11 +295,10 @@ jobs:
           now_line \
           watch_title \
           meal_week \
-          2002 \
+          profiles \
           basal_lock \
           live_activity \
-          negative_insulin \
-          bolus_display
+          negative_insulin
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
